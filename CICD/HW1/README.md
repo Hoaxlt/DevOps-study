@@ -34,6 +34,13 @@ Done -> Closed, Open.
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
 
-![]()
-![]()
-![]()
+![](https://github.com/Hoaxlt/DevOps-study/blob/practice5/CICD/HW1/Screenshot_1.png)
+![](https://github.com/Hoaxlt/DevOps-study/blob/practice5/CICD/HW1/Screenshot_2.png)
+
+
+Выгрузить второй XML не получилось, выдает эту ошибку, не понимаю почему. Задачи прошли нормально, без проблем, как в Kanban, так и в Scrum досках.
+![](https://github.com/Hoaxlt/DevOps-study/blob/practice5/CICD/HW1/Screenshot_4.png)
+
+
+
+Ссылка на эпик в этой же директории
