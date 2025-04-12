@@ -44,3 +44,7 @@ Done -> Closed, Open.
 
 
 Ссылка на эпик в этой же директории
+
+Не дает загрузить через пкм файл
+
+![]((https://github.com/Hoaxlt/DevOps-study/blob/practice5/CICD/HW1/Screenshot_3.png)
